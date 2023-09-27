@@ -23,7 +23,6 @@ In this project we take a look at football's death based on a dataset from [Kagg
 ## Project Structure
 The project follows a specific structure to organize its files and directories:
 ```
-diabetes-prediction-app/
 ├── Football Death.ipynb
 ├── README.md
 ├── football_deaths.csv
